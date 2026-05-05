@@ -1,0 +1,2 @@
+./wheels/numpy-2.4.4-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+./wheels/opencv-4.13.0-py3-none-any.whl
